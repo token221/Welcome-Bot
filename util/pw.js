@@ -1,6 +1,6 @@
 const status = "AUTOMATIC";
 const botName = "💗 WElCOME BOT";
-const text = "GlaceYT";
+const text = "Pardoss Dev";
 const version = "Latest@ v1.0"; 
 const startTime = Date.now();
 
